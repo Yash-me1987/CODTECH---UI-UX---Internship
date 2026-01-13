@@ -1,18 +1,18 @@
 # Task 1 – Landing Page Redesign
 
-Website chosen for redesign: **RentAFriend.com**
+**Website chosen for redesign:** RentAFriend.com
 
-This task focuses on analyzing the existing landing page UI/UX and redesigning it for better clarity, usability, and modern appearance.
+This task focuses on analyzing the existing landing page UI/UX and redesigning it to improve clarity, usability, and modern visual appearance.
 
 ---
 
-## Before – Existing Design
+## 🔍 Before – Existing Design
 
 The following screenshots show the current design of the RentAFriend website before redesign.
 
 ---
 
-## 🔹 Original Homepage
+## 🏠 Original Homepage
 
 ### Hero Section
 ![Before Home Hero](screenshots/before-home-hero.png)
@@ -25,7 +25,7 @@ The following screenshots show the current design of the RentAFriend website bef
 
 ---
 
-## 🔹 Authentication Pages
+## 🔐 Authentication Pages
 
 ### Sign In Page
 ![Before Sign In](screenshots/before-sign-in.png)
@@ -35,42 +35,47 @@ The following screenshots show the current design of the RentAFriend website bef
 
 ---
 
-## 🔹 Project Structure
+## 📁 Project Structure
 
-- `screenshots/` → Original UI screenshots
-- `wireframes/` → Low-fidelity redesign structure
-- `final-design/` → Final UI redesign
-
----
-
-## Screens Reviewed
-- Home / Landing page (hero section)
-- Scrolled homepage sections
-- Sign in page
-- Join / Become a Friend page
-
-### Initial Observations
-- The layout feels outdated and visually cluttered.
-- Important actions (search, join, sign in) are not visually prioritized.
-- Too much text in the hero section reduces clarity.
-- Icons and spacing are inconsistent.
-- The user flow for new users (join vs find a friend) is confusing.
+- `screenshots/` → Original UI screenshots  
+- `wireframes/` → Low-fidelity redesign layouts  
+- `final-design/` → Final redesigned UI  
 
 ---
 
-## Goal of Redesign
+## 🧪 Screens Reviewed
 
-To improve:
-- Visual hierarchy
-- Clarity of call-to-action
-- Spacing and readability
-- Overall modern UI appearance
+- Homepage / Landing Page (Hero section)  
+- Scrolled homepage sections  
+- Sign In page  
+- Join / Become a Friend page  
 
-The redesigned version will be added in the **final-design/** folder.
+---
+
+## ⚠️ Initial Observations
+
+- The layout feels outdated and visually cluttered.  
+- Important actions (Search, Join, Sign In) are not clearly prioritized.  
+- Excessive text in the hero section reduces clarity and focus.  
+- Icons and spacing are inconsistent.  
+- The onboarding flow for new users (Join vs Find a Friend) is confusing.  
+
+---
+
+## 🎯 Goal of Redesign
+
+The redesign aims to improve:
+
+- Visual hierarchy  
+- Call-to-action clarity  
+- Spacing and readability  
+- Overall modern UI/UX appeal  
+
+The redesigned version will be added in the **`final-design/`** folder.
 
 ---
 
 ## 🛠 Tools Used
 
-- Figma
-- GitHub
+- Figma 
+- GitHub  
